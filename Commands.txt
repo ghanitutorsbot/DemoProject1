@@ -1,0 +1,35 @@
+Setup + above command configuration 
+git config --list
+git config --global user.name "srikanth"
+git config --global user.email "srikanth@gmail.com"
+
+GIT Basic commnads
+git clone url
+git status
+git add filename
+git rm --cached filename
+//show commit history
+git log
+git commit -m "with message in sentence"
+git push
+git pull
+
+Linux commands
+cd
+cd ..
+ls
+.file - hiddenfile
+.folder - hiddenfolder
+touch file - create empty file
+cat - to view the commands
+
+Vi editor commands
+
+vi filename
+
+Press "i" - Insert mode
+Press "Esc" - Command mode
+Press ":" - command mode
+Press "w" - to write the content
+press "q" - quit window
+press "!" - unsave 
